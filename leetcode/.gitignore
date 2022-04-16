@@ -2,3 +2,4 @@
 *.out
 coverage.xml
 report.xml
+sandbox.go
